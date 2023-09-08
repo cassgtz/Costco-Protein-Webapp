@@ -6,12 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 2. Open your terminal, navigate to the BACKEND directory, and run this command: `node server.js`
   This will connect you to the DB & run the server on port 5000.
 
-3. Clone this current repository to your machine. 
-
+3. Clone this current repository to your machine.
+4. In the project directory, run `npm install --save` to install required packages. Run available scripts as usual. 
 
 ## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
