@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Replication Instructions
 1. Clone the repository for the BACKEND of the project to your machine: [https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git](https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git)
 2. Open your terminal, navigate to the BACKEND directory, and run this command: `node server.js`
-This will connect you to the DB & run the server on port 5000.
+  This will connect you to the DB & run the server on port 5000.
 
 3. Clone this current repository to your machine. 
 
