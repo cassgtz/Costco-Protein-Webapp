@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Costco Protein Finds Web Application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Replication Instructions
+1. Clone the repository for the BACKEND of the project to your machine: [https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git](https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git)
+2. Open your terminal, navigate to the BACKEND directory, and run this command:
+`node server.js`
+
+This will connect you to the DB & run the server on port 5000.
+3. Clone this current repository to your machine. Run as usual. 
 
 ## Available Scripts
 
