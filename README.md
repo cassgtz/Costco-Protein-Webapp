@@ -1,6 +1,6 @@
 # Costco Protein Finds Web Application
 #### Project Overview
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a multi-page web application that displays high-protein items from Costco. Users are able to search items by name, protein amount, and food category. Users can also post reviews for each item.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a multi-page web application built on the MERN stack that displays high-protein items from Costco. Users are able to search items by name, protein amount, and food category. Users can also post reviews for each item.
 
 * Frontend: React
   * multi-page using routing
@@ -9,12 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Database: MongoDB
   * API built using NodeJS and MongoDB
 
-Overview of pages:
+##### Overview of main page:
  ![](MainPage.png)
-
+##### Overview of individual items page:
  ![](ItemPage.png)
-
-
 
 ## Replication Instructions
 1. You must enable Node >= 14.0.0 and npm >= 5.6 to run this app. Install it here: https://nodejs.dev/en/download/
