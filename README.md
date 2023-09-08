@@ -2,12 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Replication Instructions
-1. Clone the repository for the BACKEND of the project to your machine: [https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git](https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git)
-2. Open your terminal, navigate to the BACKEND directory, and run this command: `node server.js`
-  This will connect you to the DB & run the server on port 5000.
+1. You must enable Node >= 14.0.0 and npm >= 5.6 to run this app. Install it here: https://nodejs.dev/en/download/
+2. Clone the repository for the BACKEND of the project to your machine: [https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git](https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git)
+3. Open your terminal, navigate to the BACKEND directory, and run this command: `node server.js`
+  This will connect you to the database & run the server on port 5000.
 
-3. Clone this current repository to your machine.
-4. In the project directory, run `npm install --save` to install required packages. Run available scripts as usual. 
+4. Clone this current repository to your machine.
+5. In the project directory, run `npm install --save` to install required packages. Run available scripts as usual. 
 
 ## Available Scripts
 
