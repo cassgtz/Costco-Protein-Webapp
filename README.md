@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Replication Instructions
 1. You must enable Node >= 14.0.0 and npm >= 5.6 to run this app. Install it here: https://nodejs.dev/en/download/
-2. Clone the repository for the BACKEND of the project to your machine: [https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git](https://github.com/cassgtz/Costco-Proteins-Webapp-BACKEND.git)
+2. Clone the repository for the BACKEND of the project to your machine: [https://github.com/cassgtz/Costco-Protein-Webapp-BACKEND.git](https://github.com/cassgtz/Costco-Protein-Webapp-BACKEND.git)
 3. Open your terminal, navigate to the BACKEND directory, and run this command: `node server.js`
   This will connect you to the database & run the server on port 5000.
 
