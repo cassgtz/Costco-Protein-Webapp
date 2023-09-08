@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `node server.js`
 
 This will connect you to the DB & run the server on port 5000.
+
+
 3. Clone this current repository to your machine. Run as usual. 
 
 ## Available Scripts
